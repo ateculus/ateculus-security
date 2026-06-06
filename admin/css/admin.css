@@ -1,0 +1,204 @@
+.asec-wrap h1 .dashicons {
+	font-size: 28px;
+	vertical-align: middle;
+	margin-right: 6px;
+	color: #2271b1;
+}
+
+.asec-tab-content {
+	background: #fff;
+	padding: 24px;
+	border: 1px solid #ccd0d4;
+	border-top: none;
+}
+
+.asec-section-title {
+	font-size: 15px;
+	font-weight: 600;
+	padding: 16px 0 4px;
+	border-bottom: 1px solid #e0e0e0;
+	margin-bottom: 0;
+}
+
+.asec-status-bar {
+	margin: 16px 0 20px;
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+.asec-your-ip {
+	padding: 12px 16px;
+	background: #f0f6fc;
+	border-left: 4px solid #2271b1;
+	border-radius: 2px;
+	font-size: 14px;
+}
+
+.asec-your-ip code { margin: 0 6px; }
+.asec-tip { color: #666; }
+
+.asec-cf-status {
+	padding: 10px 16px;
+	border-radius: 2px;
+	font-size: 13px;
+	display: flex;
+	align-items: center;
+	gap: 8px;
+}
+
+.asec-cf-on  { background: #edfaed; border-left: 4px solid #46b450; }
+.asec-cf-off { background: #fef8ee; border-left: 4px solid #dba617; }
+
+.asec-cf-status .dashicons { font-size: 18px; width: 18px; height: 18px; }
+
+.asec-radio {
+	display: flex;
+	align-items: flex-start;
+	gap: 8px;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+
+.asec-radio input { margin-top: 3px; flex-shrink: 0; }
+
+.asec-radio strong { display: block; margin-bottom: 2px; }
+
+.asec-radio span { color: #666; font-size: 13px; }
+
+.asec-manual-ban {
+	background: #f9f9f9;
+	border: 1px solid #ddd;
+	padding: 16px 20px;
+	margin: 16px 0 20px;
+	border-radius: 3px;
+}
+
+.asec-manual-ban h3 { margin: 0 0 12px; font-size: 14px; }
+
+.asec-table { margin-top: 8px !important; }
+
+.asec-login-url-notice {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	flex-wrap: wrap;
+	margin: 12px 0 16px;
+	padding: 12px 16px;
+	background: #fff8e5;
+	border-left: 4px solid #dba617;
+	border-radius: 2px;
+	font-size: 13px;
+}
+
+.asec-login-url-notice .dashicons { color: #dba617; }
+
+.asec-slug-wrap {
+	display: flex;
+	align-items: center;
+	gap: 0;
+}
+
+.asec-slug-prefix {
+	background: #f0f0f1;
+	border: 1px solid #8c8f94;
+	border-right: none;
+	padding: 6px 10px;
+	font-size: 13px;
+	color: #666;
+	border-radius: 3px 0 0 3px;
+	white-space: nowrap;
+}
+
+.asec-slug-wrap input {
+	border-radius: 0 3px 3px 0 !important;
+}
+
+.asec-empty {
+	text-align: center;
+	padding: 24px !important;
+	color: #666;
+}
+
+.asec-badge {
+	display: inline-block;
+	padding: 3px 10px;
+	border-radius: 3px;
+	font-size: 11px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.4px;
+}
+
+.asec-active   { background: #dc3232; color: #fff; }
+.asec-expired  { background: #999;    color: #fff; }
+.asec-watching { background: #dba617; color: #fff; }
+
+/* Help tab */
+.asec-help-section {
+	margin: 24px 0;
+	border: 1px solid #e0e0e0;
+	border-radius: 3px;
+}
+
+.asec-help-section:first-child { margin-top: 8px; }
+
+.asec-help-section h2 {
+	margin: 0;
+	padding: 12px 16px;
+	font-size: 14px;
+	font-weight: 600;
+	background: #f6f7f7;
+	border-bottom: 1px solid #e0e0e0;
+	border-radius: 3px 3px 0 0;
+	display: flex;
+	align-items: center;
+	gap: 8px;
+}
+
+.asec-help-section h2 .dashicons {
+	color: #2271b1;
+	font-size: 18px;
+	width: 18px;
+	height: 18px;
+}
+
+.asec-help-body {
+	padding: 16px 20px;
+	font-size: 13px;
+	line-height: 1.7;
+}
+
+.asec-help-body p  { margin: 0 0 10px; }
+.asec-help-body p:last-child { margin-bottom: 0; }
+.asec-help-body ul { margin: 8px 0 10px 20px; list-style: disc; }
+.asec-help-body li { margin-bottom: 4px; }
+
+.asec-help-body pre {
+	background: #1d2327;
+	color: #f0f0f0;
+	padding: 12px 16px;
+	border-radius: 3px;
+	overflow-x: auto;
+	font-size: 12px;
+	line-height: 1.6;
+	margin: 10px 0;
+}
+
+.asec-help-note {
+	background: #f0f6fc;
+	border-left: 4px solid #2271b1;
+	padding: 10px 14px;
+	border-radius: 2px;
+	margin: 10px 0;
+	font-size: 13px;
+}
+
+.asec-help-warn {
+	background: #fff8e5;
+	border-left: 4px solid #dba617;
+	padding: 10px 14px;
+	border-radius: 2px;
+	margin: 10px 0;
+	font-size: 13px;
+}
