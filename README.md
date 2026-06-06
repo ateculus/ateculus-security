@@ -80,7 +80,7 @@ If you lock yourself out by forgetting your custom login URL:
 
 ## License
 
-GPL-2.0+. See [LICENSE](LICENSE) for details.
+Free for personal use. Commercial use requires written authorization — see [LICENSE](LICENSE) for full terms.
 
 ## Author
 

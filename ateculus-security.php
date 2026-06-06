@@ -6,7 +6,7 @@
  * Version:     1.1.1
  * Author:      Ateculus
  * Author URI:  https://ateculus.com
- * License:     GPL-2.0+
+ * License:     Ateculus Source License 1.0
  * Text Domain: ateculus-security
  */
 
