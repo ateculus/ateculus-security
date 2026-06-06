@@ -2,6 +2,10 @@
 
 A lightweight WordPress security plugin providing brute-force protection, IP banning, bad bot filtering, and security hardening — with no cloud dependencies.
 
+## Screenshots
+
+![Settings Page](screenshots/settings.png)
+
 ## Features
 
 ### Active Protection
