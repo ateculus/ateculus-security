@@ -4,6 +4,9 @@
  * Plugin URI:  https://ateculus.com
  * Description: Brute-force login protection, IP banning, whole-site blocking, XML-RPC blocking, bad bot filtering, and security hardening.
  * Version:     1.1.1
+ * Requires at least: 6.0
+ * Tested up to:      7.0
+ * Requires PHP:      8.0
  * Author:      Ateculus
  * Author URI:  https://ateculus.com
  * License:     Ateculus Source License 1.0
