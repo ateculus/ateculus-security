@@ -1,35 +1,70 @@
 Ateculus Source License
-Version 1.0
+Version 1.1
 
 Copyright (c) 2025 Ateculus (https://ateculus.com)
+All rights reserved.
 
-TERMS AND CONDITIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PERSONAL USE — PERMITTED WITHOUT AUTHORIZATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-1. PERSONAL USE
-   You are free to use, copy, and modify this software for personal,
-   non-commercial purposes at no cost.
+You MAY use this software without authorization if ALL of the following are true:
 
-2. COMMERCIAL USE
-   Any use of this software in a commercial context — including but not
-   limited to use on client sites, in products or services offered for sale,
-   or in any revenue-generating capacity — requires prior written
-   authorization from Ateculus. To request commercial authorization, contact:
+  - The website is personally owned and operated by you as an individual
+  - The website does not generate revenue of any kind (no ads, no sales,
+    no subscriptions, no affiliate income, no donations solicited)
+  - You are not installing or configuring this software on behalf of
+    anyone else (no clients, employers, or third parties)
+  - The software is not bundled with, sold as part of, or distributed
+    alongside any product or service
 
-       https://ateculus.com/contact/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+COMMERCIAL USE — REQUIRES WRITTEN AUTHORIZATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-3. NO RENAMING OR REBRANDING
-   You may not rename, rebrand, or present this software as your own original
-   work. The plugin name, author name (Ateculus), and author URI may not be
-   altered in any distributed copy or derivative work.
+You MUST obtain prior written authorization from Ateculus before using this
+software if ANY of the following apply:
 
-4. ATTRIBUTION
-   The original author credit must be retained in any copy, distribution,
-   or derivative work.
+  - The website belongs to a business, organization, or legal entity
+  - The website generates or is intended to generate revenue of any kind
+    (including advertising, e-commerce, subscriptions, donations, or
+    affiliate links)
+  - You are a freelancer, developer, or agency installing this software
+    on a client's website — regardless of whether you are paid for that work
+  - You are including this software in a product, theme, plugin bundle,
+    or service that you distribute or sell
+  - The website is operated by a nonprofit, charity, church, or any
+    organization — registered or unregistered
+  - You are installing this on more than one website that you personally own
 
-5. NO WARRANTY
-   This software is provided "as is", without warranty of any kind, express
-   or implied. In no event shall Ateculus be liable for any claim, damages,
-   or other liability arising from the use of this software.
+To request authorization, contact: https://ateculus.com/contact/
 
-In plain terms: free for personal use — contact us before using it
-commercially. Don't rename it or claim you built it.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RESTRICTIONS — APPLY TO EVERYONE WITHOUT EXCEPTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Regardless of whether your use is personal or authorized commercial use,
+you may NOT:
+
+  - Change the plugin name, author name, author URI, or plugin URI in
+    the plugin header or any documentation
+  - Represent this software as your own original work
+  - Remove or alter this license file or any copyright notices
+  - Redistribute this software publicly (e.g. on WordPress.org, GitHub,
+    or any other platform) without written permission from Ateculus
+  - Sublicense this software to any third party
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NO WARRANTY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and non-infringement. In no event shall
+Ateculus be liable for any claim, damages, or other liability, whether in
+an action of contract, tort, or otherwise, arising from, out of, or in
+connection with the software or the use or other dealings in the software.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Contact: https://ateculus.com/contact/
